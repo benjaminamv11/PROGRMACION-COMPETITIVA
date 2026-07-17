@@ -12,6 +12,7 @@ int main() {
             a = Cant de X
             b = Cant de V
             c = Cant de I*/
-            }
-    }
+            cadena.find("?")    
+        };
+    };
 }
